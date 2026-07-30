@@ -1,5 +1,0 @@
-streamlit
-groq
-yfinance
-pandas
-pandas-ta
